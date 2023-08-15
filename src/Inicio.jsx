@@ -22,7 +22,7 @@ export function Inicio() {
                 <Article 
                     titulo={"Osciloscopio: Explorando las Ondas Electrónicas"}
                     contenido={"Sumérgete en el mundo de las ondas electrónicas con los osciloscopios. Desde señales simples hasta complejas, estas herramientas te permiten visualizar y comprender el comportamiento de las corrientes eléctricas. Aprende a ajustar la escala y la frecuencia para analizar detenidamente las formas de onda. Descubre cómo un osciloscopio puede ser tu aliado para diagnosticar problemas y diseñar circuitos más eficientes."}
-                    src={"../src/assets/fuente_de_voltaje.png"} 
+                    src={"../src/assets/osciloscopio.png"} 
                     alt={"Fuente de voltaje"}
                     side={"left"}
                     isBold={true}
@@ -40,7 +40,7 @@ export function Inicio() {
                     titulo={"¡Descubre la Maravilla del Osciloscopio en 3D!"}
                     contenido={"Sumérgete en una experiencia única mientras desvelamos el mundo del osciloscopio a través de un modelado en 3D sorprendentemente realista."}
                     src={"#"}
-                    img={"../src/assets/fuente_de_voltaje.png"}
+                    img={"../src/assets/osciloscopio.png"}
                     alt={"Osciloscopio"}
                     side={"left"}
                     bgColor={"#D20B0B"}
